@@ -1,0 +1,26 @@
+.header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height:60px;
+    padding: 0 20px;
+    background-color: rgb(8, 82, 57);
+
+    
+}
+.logo{
+    color: whitesmoke;
+    font-weight: 300;
+}
+.btn{
+    margin-left: 10px;
+    background-color: #f7f8f9;
+    color: #211414;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+
+    
+}
